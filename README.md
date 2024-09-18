@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 📜 Formado em desenvolvimento Full Stack na escola Trybe
-- 🌱 Atualmente estou reforçando os aprendizados em JavaScript e Phyton
+- 🌱 Atualmente estou reforçando os aprendizados em JavaScript,Phyton e C#.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/washingtonlimaferreira/">
